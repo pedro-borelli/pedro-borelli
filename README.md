@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro Borelli 😁
+### Olá! Eu sou o Pedro Borelli 🤪
 
 - 🖱 Atualmente participando de um bootcamp de programação
 - 💻Estudando Front-end e Back-end
