@@ -1,6 +1,6 @@
-                                                    Olá! Eu sou o Pedro Borelli 🍄
+                                                    Hi! I´m Pedro Borelli 🍄
 
-                                          A melhor maneira de prever o futuro é inventá-lo 🍁
+                                          I'm currently studying to become a Fullstack Developer Júnior. 🍧
                                           
 <div align="center">
   <a href="https://github.com/pedro-borelli">
