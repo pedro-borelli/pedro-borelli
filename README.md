@@ -1,6 +1,6 @@
                                                     Hi! I´m Pedro Borelli 🍄
 
-                                          I'm currently studying to become a Fullstack Developer Júnior. 🍧
+                                          I'm currently studying to become a Fullstack Developer Jr. 🍧
                                           
 <div align="center">
   <a href="https://github.com/pedro-borelli">
