@@ -19,7 +19,6 @@
 <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=pedro-borelli&color=blue&style=for-the-badge" height=25 width=180/>
 </a>
 </div> 
-  
    
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="pedro-borelli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
@@ -29,11 +28,12 @@
   <img align="center" alt="pedro-borelli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
   <a href="#"> <img width = '50px' align= 'center' src="https://appmasters.io/static/mysql-logo-bab2c760c60f17191cb3a002e08a3dbf.png"/></a> 
   
-  ![giphy](https://user-images.githubusercontent.com/93774845/147989814-be5c7b6a-66d4-4535-97e6-d59109a48d13.gif)
   
   ![Snake animation](https://github.com/pedro-borelli/pedro-borelli/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ![como-descargar-un-gif-en-android](https://user-images.githubusercontent.com/93774845/147990501-d14884b8-178b-4dbe-902f-ac30d064e7fe.gif)
  
 
   
