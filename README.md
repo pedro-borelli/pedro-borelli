@@ -1,4 +1,4 @@
-                                                    Hi! I´m Pedro Borelli 🍄
+                                                         Hi! I´m Pedro Borelli 🍄
 
                                           I'm currently studying to become a Fullstack Developer Jr. 🍧
                                           
