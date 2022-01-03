@@ -9,7 +9,7 @@
 </div>
   
 <div align="center"> 
-<a href="borellipedroluiz@gmail.com">
+<a href="mailto:borellipedroluiz@gmail.com">
 <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" height=25 width=160/>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5512996047094&text=Ol%C3%A">
