@@ -21,12 +21,15 @@
 </div> 
    
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="pedro-borelli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="pedro-borelli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img align="center" alt="pedro-borelli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"/>
-  <img align="center" alt="pedro-borelli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="pedro-borelli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
+  <img align="center" alt="pedro-borelli-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="pedro-borelli-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="pedro-borelli-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img align="center" alt="pedro-borelli-Java" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="pedro-borelli-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"/>
+  <img align="center" alt="pedro-borelli-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="pedro-borelli-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
   <a href="#"> <img width = '50px' align= 'center' src="https://appmasters.io/static/mysql-logo-bab2c760c60f17191cb3a002e08a3dbf.png"/></a> 
+  <img align="center" alt="pedro-borelli-Java"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   
   
   ![Snake animation](https://github.com/pedro-borelli/pedro-borelli/blob/output/github-contribution-grid-snake.svg)
