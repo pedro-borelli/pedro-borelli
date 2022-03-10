@@ -28,7 +28,7 @@ Sou Desenvolvedor Java FullStack, possuo experiência em construir API'S REST co
 
 
 
-## ⚙ Técnologias
+## ⚙ Tecnologias e ferramentas
 
 <div align="left" style="display: inline_block"><br>
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
