@@ -21,7 +21,7 @@ Sou Desenvolvedor Java FullStack, possuo experiência em construir API'S REST co
 ## 📊 Gráficos
 
 <div>
-<img  src = "https://github-readme-stats.vercel.app/api?username=pedro-borelli&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117">
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=pedro-borelli&show_icons=true&theme=apprentice&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-borelli&layout=compact&langs_count=7&theme=apprentice&hide_border=true&bg_color=0D1117">
 </div>
 
