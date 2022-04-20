@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=94d82d&size=30&center=true&vCenter=true&width=900&lines=Eu+sou+um+Desenvolvedor+Full+Stack+Jr+)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22b8cf&size=30&center=true&vCenter=true&width=900&lines=Eu+sou+um+Desenvolvedor+Full+Stack+Jr+)](https://git.io/typing-svg)
 
 <br>
 Possuo experiência em construir API'S REST com Spring Boot e consumir com  React ou Angular, estou buscando evoluir e aprender novas tecnologias! Venha conhecer meus projetos nos repositórios.
