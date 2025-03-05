@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=96f2d7&size=30&center=true&vCenter=true&width=900&lines=I+am+a+sofware+enginner)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=96f2d7&size=30&center=true&vCenter=true&width=900&lines=I+am+a+software+enginner)](https://git.io/typing-svg)
 
 <br>
 Possuo experiência em construir API'S REST com Spring Boot utilizando Java e Python, estou buscando evoluir e aprender novas tecnologias! Venha conhecer meus projetos nos repositórios.
