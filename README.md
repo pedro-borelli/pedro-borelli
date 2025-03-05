@@ -1,8 +1,8 @@
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=96f2d7&size=30&center=true&vCenter=true&width=900&lines=Eu+sou+um+Desenvolvedor+Full+Stack+Jr+)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=96f2d7&size=30&center=true&vCenter=true&width=900&lines=I+am+a+sofware+enginner)](https://git.io/typing-svg)
 
 <br>
-Possuo experiência em construir API'S REST com Spring Boot e consumir com  React ou Angular, estou buscando evoluir e aprender novas tecnologias! Venha conhecer meus projetos nos repositórios.
+Possuo experiência em construir API'S REST com Spring Boot utilizando Java e Python, estou buscando evoluir e aprender novas tecnologias! Venha conhecer meus projetos nos repositórios.
 
 <br>
 <br>
@@ -33,17 +33,11 @@ Possuo experiência em construir API'S REST com Spring Boot e consumir com  Reac
 <div align="left" style="display: inline_block"><br>
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-<img style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 ![Snake animation](https://github.com/pedro-borelli/pedro-borelli/blob/output/github-contribution-grid-snake.svg)
 
