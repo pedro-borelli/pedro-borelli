@@ -39,7 +39,7 @@ Possuo experiência em construir API'S REST com Spring Boot utilizando Java e Py
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-![Snake animation](https://github.com/pedro-borelli/pedro-borelli/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
