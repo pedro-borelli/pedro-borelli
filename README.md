@@ -36,7 +36,6 @@ Possuo experiência em construir API'S REST com Spring Boot utilizando Java, atu
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
