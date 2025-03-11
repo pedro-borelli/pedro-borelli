@@ -21,10 +21,9 @@ Possuo experiência em construir API'S REST com Spring Boot utilizando Java, atu
 ## 📊 Gráficos
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-borelli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-borelli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true&exclude_repo=repo1,repo2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-borelli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-borelli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
-
 
 
 
