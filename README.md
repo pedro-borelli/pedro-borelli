@@ -2,7 +2,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=96f2d7&size=30&center=true&vCenter=true&width=900&lines=Aprendendo+e+Evoluindo+na+Tecnologia)](https://git.io/typing-svg)
 
 <br>
-Possuo experiência em construir API'S REST com Spring Boot utilizando Java, atualmente estudando Python e buscando evoluir e aprender novas tecnologias! Venha conhecer meus projetos nos repositórios
+Possuo experiência em construir API'S REST com Spring Boot utilizando Java, buscando evoluir e aprender novas tecnologias! Venha conhecer meus projetos nos repositórios
 
 <br>
 <br>
